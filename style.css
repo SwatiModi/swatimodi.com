@@ -104,6 +104,9 @@ body{
 		height: 15%;
 		width: 100%;
 	}
+	.full-content{
+		padding: 10% 15% 10% 10%;
+	}
 	.intro{
 		font-size: 2rem;
 		word-spacing: -0.1rem;
