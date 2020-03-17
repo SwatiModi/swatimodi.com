@@ -98,3 +98,35 @@ body{
 	left: -32%;
 	bottom: -5%;
 }
+
+@media only screen and (max-width: 600px) {
+	.header{
+		height: 15%;
+		width: 100%;
+	}
+	.intro{
+		font-size: 2rem;
+		word-spacing: -0.1rem;
+		margin-bottom: 0.8rem;
+		color:#2c5dec;
+		padding-bottom: 2rem;
+	}
+	.sub-heading{
+		font-size: 1rem;
+		margin-bottom: 10%;
+		/* color:#787878; */
+		color:#a7a7a7;
+		padding-bottom: 1rem;
+	}
+	.socials{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: nowrap;
+		height: 20%;
+		width: 60%;
+		color:#a9acb5;
+	}
+	.fancy-box-1{
+		display: none;
+	}
+  }
