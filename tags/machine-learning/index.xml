@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>machine learning on SM</title>
+    <link>https://swatimodi.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine learning on SM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Mar 2020 01:08:47 +0530</lastBuildDate>
+    
+	<atom:link href="https://swatimodi.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting started with MediaPipe</title>
+      <link>https://swatimodi.github.io/posts/google-mediapipe/</link>
+      <pubDate>Mon, 23 Mar 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/posts/google-mediapipe/</guid>
+      <description>Page under construction! 👷‍♀
+Currently this blog is only avaiable on my Medium account.
+https://blog.gofynd.com/mediapipe-with-custom-tflite-model-d3ea0427b3c1?source=friends_link&amp;amp;sk=cc213a450216f3dbcd44dcd88d14dd5e</description>
+    </item>
+    
+  </channel>
+</rss>

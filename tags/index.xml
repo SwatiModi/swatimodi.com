@@ -2,13 +2,86 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on SM</title>
-    <link>https://swatimodi.github.io/swatimodi.com/tags/</link>
+    <link>https://swatimodi.github.io/tags/</link>
     <description>Recent content in Tags on SM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 06 Aug 2020 01:08:47 +0530</lastBuildDate>
     
-	<atom:link href="https://swatimodi.github.io/swatimodi.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://swatimodi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>google</title>
+      <link>https://swatimodi.github.io/tags/google/</link>
+      <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mediapipe</title>
+      <link>https://swatimodi.github.io/tags/mediapipe/</link>
+      <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/tags/mediapipe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>realtime</title>
+      <link>https://swatimodi.github.io/tags/realtime/</link>
+      <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/tags/realtime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual-backgroud</title>
+      <link>https://swatimodi.github.io/tags/virtual-backgroud/</link>
+      <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/tags/virtual-backgroud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zoom-alike</title>
+      <link>https://swatimodi.github.io/tags/zoom-alike/</link>
+      <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/tags/zoom-alike/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://swatimodi.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 23 Mar 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>on-device-ML</title>
+      <link>https://swatimodi.github.io/tags/on-device-ml/</link>
+      <pubDate>Mon, 23 Mar 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/tags/on-device-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portrait-segmentation</title>
+      <link>https://swatimodi.github.io/tags/portrait-segmentation/</link>
+      <pubDate>Mon, 23 Mar 2020 01:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/tags/portrait-segmentation/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
