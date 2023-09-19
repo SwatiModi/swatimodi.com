@@ -6,19 +6,15 @@
     <description>Recent content in portrait-segmentation on SM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2020 01:08:47 +0530</lastBuildDate>
-    
-	<atom:link href="https://swatimodi.github.io/tags/portrait-segmentation/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 23 Mar 2020 01:08:47 +0530</lastBuildDate><atom:link href="https://swatimodi.github.io/tags/portrait-segmentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with MediaPipe</title>
       <link>https://swatimodi.github.io/posts/google-mediapipe/</link>
       <pubDate>Mon, 23 Mar 2020 01:08:47 +0530</pubDate>
       
       <guid>https://swatimodi.github.io/posts/google-mediapipe/</guid>
-      <description>Page under construction! 👷‍♀
-Currently this blog is only avaiable on my Medium account.
+      <description>Page under construction! 👷‍♀️
+Currently this blog is only available on my Medium account.
 https://blog.gofynd.com/mediapipe-with-custom-tflite-model-d3ea0427b3c1?source=friends_link&amp;amp;sk=cc213a450216f3dbcd44dcd88d14dd5e</description>
     </item>
     

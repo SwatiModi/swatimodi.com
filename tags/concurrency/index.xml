@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concurrency on SM</title>
+    <link>https://swatimodi.github.io/tags/concurrency/</link>
+    <description>Recent content in concurrency on SM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Sep 2023 12:08:47 +0530</lastBuildDate><atom:link href="https://swatimodi.github.io/tags/concurrency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Concurrency: Locks, Lock-free and everything in-between</title>
+      <link>https://swatimodi.github.io/posts/go-concurrency-locks-lock-free-and-everything-in-between/</link>
+      <pubDate>Sun, 10 Sep 2023 12:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/posts/go-concurrency-locks-lock-free-and-everything-in-between/</guid>
+      <description>Page under construction! 👷‍♀️
+Link to the talk is coming soon! ⏲️</description>
+    </item>
+    
+  </channel>
+</rss>
