@@ -6,10 +6,16 @@
     <description>Recent content in swati-modi on SM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Aug 2020 01:08:47 +0530</lastBuildDate>
-    
-	<atom:link href="https://swatimodi.github.io/authors/swati-modi/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 10 Sep 2023 12:08:47 +0530</lastBuildDate><atom:link href="https://swatimodi.github.io/authors/swati-modi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Concurrency: Locks, Lock-free and everything in-between</title>
+      <link>https://swatimodi.github.io/posts/go-concurrency-locks-lock-free-and-everything-in-between/</link>
+      <pubDate>Sun, 10 Sep 2023 12:08:47 +0530</pubDate>
+      
+      <guid>https://swatimodi.github.io/posts/go-concurrency-locks-lock-free-and-everything-in-between/</guid>
+      <description>Page under construction! 👷‍♀️
+Link to the talk is coming soon! ⏲️</description>
+    </item>
     
     <item>
       <title>Virtual Background App</title>
@@ -17,8 +23,8 @@
       <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
       
       <guid>https://swatimodi.github.io/posts/virtual-background-app/</guid>
-      <description>Page under construction! 👷‍♀
-Currently this blog is only avaiable on my Medium account.
+      <description>Page under construction! 👷‍♀️
+Currently this blog is only available on my Medium account.
 https://towardsdatascience.com/custom-calculators-in-mediapipe-5a245901d595?source=friends_link&amp;amp;sk=ab8f7bee04466662297dd64fa5c7e525</description>
     </item>
     
@@ -28,8 +34,8 @@ https://towardsdatascience.com/custom-calculators-in-mediapipe-5a245901d595?sour
       <pubDate>Mon, 23 Mar 2020 01:08:47 +0530</pubDate>
       
       <guid>https://swatimodi.github.io/posts/google-mediapipe/</guid>
-      <description>Page under construction! 👷‍♀
-Currently this blog is only avaiable on my Medium account.
+      <description>Page under construction! 👷‍♀️
+Currently this blog is only available on my Medium account.
 https://blog.gofynd.com/mediapipe-with-custom-tflite-model-d3ea0427b3c1?source=friends_link&amp;amp;sk=cc213a450216f3dbcd44dcd88d14dd5e</description>
     </item>
     

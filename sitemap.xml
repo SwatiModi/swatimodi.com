@@ -1,93 +1,78 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://swatimodi.github.io/about/</loc>
-    <lastmod>2021-05-09T00:41:36+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swatimodi.github.io/</loc>
-    <lastmod>2021-05-09T00:41:36+05:30</lastmod>
-  </url>
-  
   <url>
     <loc>https://swatimodi.github.io/authors/</loc>
-    <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/tags/concurrency/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/posts/go-concurrency-locks-lock-free-and-everything-in-between/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/tags/golang/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/tags/gophercon-india/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/tags/lock-free/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/tags/locks/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/posts/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/authors/swati-modi/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/tags/synchronization/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/tags/</loc>
+    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>https://swatimodi.github.io/about/</loc>
+    <lastmod>2021-05-09T00:41:36+05:30</lastmod>
+  </url><url>
     <loc>https://swatimodi.github.io/tags/google/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/tags/mediapipe/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swatimodi.github.io/posts/</loc>
-    <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/tags/realtime/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swatimodi.github.io/authors/swati-modi/</loc>
-    <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://swatimodi.github.io/tags/</loc>
-    <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/posts/virtual-background-app/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/tags/virtual-backgroud/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/tags/zoom-alike/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/posts/google-mediapipe/</loc>
     <lastmod>2020-03-23T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/tags/machine-learning/</loc>
     <lastmod>2020-03-23T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/tags/on-device-ml/</loc>
     <lastmod>2020-03-23T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/tags/portrait-segmentation/</loc>
     <lastmod>2020-03-23T01:08:47+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://swatimodi.github.io/series/</loc>
   </url>
-  
 </urlset>
