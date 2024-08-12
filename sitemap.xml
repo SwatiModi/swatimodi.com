@@ -2,77 +2,101 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://swatimodi.github.io/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/concurrency/</loc>
+    <loc>http://localhost:1313/tags/concurrency/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/posts/go-concurrency-locks-lock-free-and-everything-in-between/</loc>
+    <loc>http://localhost:1313/posts/go-concurrency--locks-lock-free-and-everything-in-between/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/golang/</loc>
+    <loc>http://localhost:1313/tags/golang/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/gophercon-india/</loc>
+    <loc>http://localhost:1313/tags/gophercon-india/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/lock-free/</loc>
+    <loc>http://localhost:1313/tags/lock-free/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/locks/</loc>
+    <loc>http://localhost:1313/tags/locks/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/authors/swati-modi/</loc>
+    <loc>http://localhost:1313/authors/swati-modi/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/synchronization/</loc>
+    <loc>http://localhost:1313/tags/synchronization/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/about/</loc>
+    <loc>http://localhost:1313/tags/cardinality/</loc>
+    <lastmod>2023-06-28T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/data-structures/</loc>
+    <lastmod>2023-06-28T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/database/</loc>
+    <lastmod>2023-06-28T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/high-throughput/</loc>
+    <lastmod>2023-06-28T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/metric-cardinality-counter-in-timeseries-database/</loc>
+    <lastmod>2023-06-28T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/low-latency/</loc>
+    <lastmod>2023-06-28T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/piyush-verma/</loc>
+    <lastmod>2023-06-28T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/timeseries/</loc>
+    <lastmod>2023-06-28T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2021-05-09T00:41:36+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/google/</loc>
+    <loc>http://localhost:1313/tags/google/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/mediapipe/</loc>
+    <loc>http://localhost:1313/tags/mediapipe/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/realtime/</loc>
+    <loc>http://localhost:1313/tags/realtime/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/posts/virtual-background-app/</loc>
+    <loc>http://localhost:1313/posts/virtual-background-app/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/virtual-backgroud/</loc>
+    <loc>http://localhost:1313/tags/virtual-backgroud/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/zoom-alike/</loc>
+    <loc>http://localhost:1313/tags/zoom-alike/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/posts/google-mediapipe/</loc>
+    <loc>http://localhost:1313/posts/google-mediapipe/</loc>
     <lastmod>2020-03-23T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2020-03-23T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/on-device-ml/</loc>
+    <loc>http://localhost:1313/tags/on-device-ml/</loc>
     <lastmod>2020-03-23T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/tags/portrait-segmentation/</loc>
+    <loc>http://localhost:1313/tags/portrait-segmentation/</loc>
     <lastmod>2020-03-23T01:08:47+05:30</lastmod>
   </url><url>
-    <loc>https://swatimodi.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://swatimodi.github.io/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

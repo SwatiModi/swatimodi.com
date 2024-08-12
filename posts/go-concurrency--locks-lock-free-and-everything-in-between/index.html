@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="color-scheme" content="light dark">
+
+    
+      <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; child-src 'self'; font-src 'self' https://fonts.gstatic.com https://cdn.jsdelivr.net/; form-action 'self'; frame-src 'self'; img-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com/ https://cdn.jsdelivr.net/; script-src 'self' 'unsafe-inline' https://www.google-analytics.com; prefetch-src 'self'; connect-src 'self' https://www.google-analytics.com;">
+
+    
+
+    <meta name="author" content="Swati Modi">
+    <meta name="description" content="Gophercon India - 2023 Talk">
+    <meta name="keywords" content="blog,developer,personal">
+
+    
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Go Concurrency: Locks, Lock-free and everything in-between">
+  <meta name="twitter:description" content="Gophercon India - 2023 Talk">
+
+    <meta property="og:url" content="http://localhost:1313/posts/go-concurrency--locks-lock-free-and-everything-in-between/">
+  <meta property="og:site_name" content="SM">
+  <meta property="og:title" content="Go Concurrency: Locks, Lock-free and everything in-between">
+  <meta property="og:description" content="Gophercon India - 2023 Talk">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-09-10T12:08:47+05:30">
+    <meta property="article:modified_time" content="2023-09-10T12:08:47+05:30">
+    <meta property="article:tag" content="Golang">
+    <meta property="article:tag" content="Concurrency">
+    <meta property="article:tag" content="Synchronization">
+    <meta property="article:tag" content="Gophercon-India">
+    <meta property="article:tag" content="Lock-Free">
+    <meta property="article:tag" content="Locks">
+
+
+    <title>
+  Go Concurrency: Locks, Lock-free and everything in-between · SM
+</title>
+
+    
+      <link rel="canonical" href="http://localhost:1313/posts/go-concurrency--locks-lock-free-and-everything-in-between/">
+    
+
+    <link rel="preload" href="../../fonts/forkawesome-webfont.woff2?v=1.1.7" as="font" type="font/woff2" crossorigin>
+
+    
+      
+      
+      <link rel="stylesheet" href="../../css/coder.css" media="screen">
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="../../css/coder-dark.css" media="screen">
+      
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="../../images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="../../images/favicon-16x16.png" sizes="16x16">
+
+    <link rel="apple-touch-icon" href="../../images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../images/apple-touch-icon.png">
+
+    
+
+    <meta name="generator" content="Hugo 0.127.0">
+  </head>
+
+  
+  
+    
+  
+  <body class="preload-transitions colorscheme-auto"
+        onload=""
+  >
+    
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="../../">
+      SM
+    </a>
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="../../about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="../../posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link" href="https://github.com/SwatiModi">Projects</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/posts/go-concurrency--locks-lock-free-and-everything-in-between/">
+              Go Concurrency: Locks, Lock-free and everything in-between
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa fa-calendar" aria-hidden="true"></i>
+              <time datetime='2023-09-10T12:08:47&#43;05:30'>
+                September 10, 2023
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa fa-clock-o" aria-hidden="true"></i>
+              One-minute read
+            </span>
+          </div>
+          <div class="authors">
+    <i class="fa fa-user" aria-hidden="true"></i>
+      <a href="../../authors/swati-modi/">swati-modi</a></div>
+          
+          <div class="tags">
+  <i class="fa fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="../../tags/golang/">golang</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="../../tags/concurrency/">concurrency</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="../../tags/synchronization/">synchronization</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="../../tags/gophercon-india/">gophercon-india</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="../../tags/lock-free/">lock-free</a>
+    </span>
+      <span class="separator">•</span>
+    <span class="tag">
+      <a href="../../tags/locks/">locks</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div>
+        
+        <p><strong>Page under construction! &#x1f477;&zwj;&#x2640;&#xfe0f;</strong></p>
+<p>Currently this blog is only available below.</p>
+<p><a href="https://last9.io/blog/golang-concurrency-masterclass-by-swati-modi-at-gophercon-2023/">https://last9.io/blog/golang-concurrency-masterclass-by-swati-modi-at-gophercon-2023/</a></p>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      
+  <footer class="footer">
+    <section class="container">
+      
+        <p>Made with 💜 by Swati Modi</p>
+      
+      
+      
+      
+        
+      
+    </section>
+  </footer>
+
+
+    </main>
+
+    
+      
+      <script src="../../js/coder.js"></script>
+    
+
+    
+
+    
+  
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+  </body>
+
+</html>
