@@ -2,19 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on SM</title>
-    <link>https://swatimodi.github.io/authors/</link>
+    <link>http://localhost:1313/authors/</link>
     <description>Recent content in Authors on SM</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Sep 2023 12:08:47 +0530</lastBuildDate><atom:link href="https://swatimodi.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 12:08:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>swati-modi</title>
-      <link>https://swatimodi.github.io/authors/swati-modi/</link>
-      <pubDate>Sun, 10 Sep 2023 12:08:47 +0530</pubDate>
-      
-      <guid>https://swatimodi.github.io/authors/swati-modi/</guid>
+      <title>Swati-Modi</title>
+      <link>http://localhost:1313/authors/swati-modi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/swati-modi/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Piyush-Verma</title>
+      <link>http://localhost:1313/authors/piyush-verma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/piyush-verma/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
