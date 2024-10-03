@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/projects/datastructures-in-action/</loc>
+    <lastmod>2024-10-01T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-10-01T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-01T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/balanco/</loc>
+    <lastmod>2024-09-20T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/tetris/</loc>
+    <lastmod>2024-06-01T12:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/rmcs/</loc>
+    <lastmod>2024-05-01T12:08:47+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
@@ -24,9 +42,6 @@
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2023-09-10T12:08:47+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2023-09-10T12:08:47+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/authors/swati-modi/</loc>
@@ -68,16 +83,28 @@
     <loc>http://localhost:1313/tags/google/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/linux/</loc>
+    <lastmod>2020-08-06T01:08:47+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/mediapipe/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/networking/</loc>
+    <lastmod>2020-08-06T01:08:47+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/realtime/</loc>
+    <lastmod>2020-08-06T01:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tcp/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/virtual-background-app/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/virtual-backgroud/</loc>
+    <lastmod>2020-08-06T01:08:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/running-out-tcp-ports/</loc>
     <lastmod>2020-08-06T01:08:47+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/zoom-alike/</loc>
