@@ -6,8 +6,36 @@
     <description>Recent content on SM</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Sep 2023 12:08:47 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 12:08:47 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Structures in Action: Practical Applications for Everyday Use</title>
+      <link>http://localhost:1313/projects/datastructures-in-action/</link>
+      <pubDate>Tue, 01 Oct 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/datastructures-in-action/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Balanco: Efficient Traffic Distribution Made Simple</title>
+      <link>http://localhost:1313/projects/balanco/</link>
+      <pubDate>Fri, 20 Sep 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/balanco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tetris</title>
+      <link>http://localhost:1313/projects/tetris/</link>
+      <pubDate>Sat, 01 Jun 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/tetris/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MultiPlayer Game - Raja Mantri Chor Sipahi</title>
+      <link>http://localhost:1313/projects/rmcs/</link>
+      <pubDate>Wed, 01 May 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/rmcs/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Go Concurrency: Locks, Lock-free and everything in-between</title>
       <link>http://localhost:1313/posts/go-concurrency--locks-lock-free-and-everything-in-between/</link>
@@ -27,7 +55,7 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 09 May 2021 00:41:36 +0530</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>Hi, I&amp;rsquo;m Swati Modi, a Software Engineer &amp;#x1f469;&amp;zwj;&amp;#x1f4bb;, passionate about products and a maker at heart &amp;#x1f680;&#xA;I like to explore new things and am always up for challenging opportunities.&#xA;Work Seeking dynamic opportunities in distributed systems, databases, and data warehouse products.&#xA;Previously built&#xA;Built a time-series data warehouse Levitate, that serves five 9&amp;rsquo;s of reliability at a scale of 1 Trillion Samples a month, at Last9. Logistics SaaS OS1 at Delhivery.</description>
+      <description>Hi, I&amp;rsquo;m Swati Modi, a Software Engineer &amp;#x1f469;&amp;zwj;&amp;#x1f4bb;, passionate about products and a maker at heart &amp;#x1f680; I like to explore new things and am always up for challenging opportunities.&#xA;Work Looking for challenging roles in distributed systems, database design, and large-scale data warehousing, with a focus on building high-performance, scalable backend solutions.&#xA;Full-time Roles Last9 (last9.io) [Jun 2022 – Mar 2024]&#xA;Time-Series Data Warehouse - Levitate (Link)&#xA;Built a scalable time-series warehouse handling 1 trillion samples per month with five 9&amp;rsquo;s of reliability.</description>
     </item>
     <item>
       <title>Virtual Background App</title>
@@ -35,6 +63,13 @@
       <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
       <guid>http://localhost:1313/posts/virtual-background-app/</guid>
       <description>Page under construction! &amp;#x1f477;&amp;zwj;&amp;#x2640;&amp;#xfe0f;&#xA;Currently this blog is only available on my Medium account.&#xA;https://towardsdatascience.com/custom-calculators-in-mediapipe-5a245901d595?source=friends_link&amp;sk=ab8f7bee04466662297dd64fa5c7e525</description>
+    </item>
+    <item>
+      <title>When Ports Run Dry: Diagnosing TCP Connection Leaks</title>
+      <link>http://localhost:1313/posts/running-out-tcp-ports/</link>
+      <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/posts/running-out-tcp-ports/</guid>
+      <description>Page under construction! &amp;#x1f477;&amp;zwj;&amp;#x2640;&amp;#xfe0f;</description>
     </item>
     <item>
       <title>Getting started with MediaPipe</title>

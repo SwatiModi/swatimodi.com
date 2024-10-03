@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tcp on SM</title>
+    <link>http://localhost:1313/tags/tcp/</link>
+    <description>Recent content in Tcp on SM</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Aug 2020 01:08:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When Ports Run Dry: Diagnosing TCP Connection Leaks</title>
+      <link>http://localhost:1313/posts/running-out-tcp-ports/</link>
+      <pubDate>Thu, 06 Aug 2020 01:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/posts/running-out-tcp-ports/</guid>
+      <description>Page under construction! &amp;#x1f477;&amp;zwj;&amp;#x2640;&amp;#xfe0f;</description>
+    </item>
+  </channel>
+</rss>

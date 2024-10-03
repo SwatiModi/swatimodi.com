@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on SM</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on SM</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2024 12:08:47 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Structures in Action: Practical Applications for Everyday Use</title>
+      <link>http://localhost:1313/projects/datastructures-in-action/</link>
+      <pubDate>Tue, 01 Oct 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/datastructures-in-action/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Balanco: Efficient Traffic Distribution Made Simple</title>
+      <link>http://localhost:1313/projects/balanco/</link>
+      <pubDate>Fri, 20 Sep 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/balanco/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tetris</title>
+      <link>http://localhost:1313/projects/tetris/</link>
+      <pubDate>Sat, 01 Jun 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/tetris/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MultiPlayer Game - Raja Mantri Chor Sipahi</title>
+      <link>http://localhost:1313/projects/orange-pi/</link>
+      <pubDate>Wed, 01 May 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/orange-pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MultiPlayer Game - Raja Mantri Chor Sipahi</title>
+      <link>http://localhost:1313/projects/rmcs/</link>
+      <pubDate>Wed, 01 May 2024 12:08:47 +0530</pubDate>
+      <guid>http://localhost:1313/projects/rmcs/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
